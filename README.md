@@ -1,1 +1,2 @@
-# Hands-on-deep-learning_pytorch_limu
+# Hands-on-deep-learning_pytorch_limu  
+&emsp;&emsp;几个月前准备时学习过李沐老师的[《动手学深度学习》](https://tangshusen.me/Dive-into-DL-PyTorch)这本书(现在不知道为啥打不开了)，后来在GitHub发现了李沐老师的这个项目<https://github.com/d2l-ai/d2l-zh>,里面有这本书[《动手学深度学习》](https://zh.d2l.ai/)。上次学习时比较匆忙，没有仔细看，这次准备以李沐老师在B站上的[动手学深度学习 Pytorch版](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)为主，并结合这本书深入学习一下深度学习尤其是计算机视觉方面的知识。希望通过这些可以巩固一下自己的基础。
